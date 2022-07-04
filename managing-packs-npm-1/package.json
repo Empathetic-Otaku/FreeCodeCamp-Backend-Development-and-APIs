@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Sipho",
+	"description": "description will say what your package/library does in NPM and the end user will see  ",
+	"keywords": ["freecodecamp", "add", "words", "here", "for", "SEO"],
+	"license": "MIT",
+	"version": "1.2.0",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
